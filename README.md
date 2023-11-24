@@ -1,6 +1,6 @@
 # llvm-bindings
 
-LLVM bindings for Node.js/JavaScript/TypeScript
+LLVM bindings for Node.js/JavaScript/TypeScript.
 Forked from ApsarasX for use in Glacier
 
 [![github-action](https://img.shields.io/github/workflow/status/ApsarasX/llvm-bindings/Build?style=flat-square)](https://github.com/ApsarasX/llvm-bindings/actions)
